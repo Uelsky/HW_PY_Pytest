@@ -1,0 +1,5 @@
+.idea/
+.venv/
+.pytest_cash/
+__pycache__/
+*.ini
